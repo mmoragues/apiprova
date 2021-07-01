@@ -2,12 +2,10 @@
   "response": "success",
   "id": "70",
   "name": "Batman",
-  "powerstats": {
-    "intelligence": "100",
-    "strength": "26",
-    "speed": "27",
-    "durability": "50",
-    "power": "47",
-    "combat": "100"
-  }
+  "intelligence": "100",
+  "strength": "26",
+  "speed": "27",
+  "durability": "50",
+  "power": "47",
+  "combat": "100"
 }
