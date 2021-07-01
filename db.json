@@ -9,38 +9,5 @@
     "durability": "50",
     "power": "47",
     "combat": "100"
-  },
-  "biography": {
-    "full-name": "Bruce Wayne",
-    "alter-egos": "No alter egos found.",
-    "aliases": [
-      "Insider",
-      "Matches Malone"
-    ],
-    "place-of-birth": "Crest Hill, Bristol Township; Gotham County",
-    "first-appearance": "Detective Comics #27",
-    "publisher": "DC Comics",
-    "alignment": "good"
-  },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'2",
-      "188 cm"
-    ],
-    "weight": [
-      "210 lb",
-      "95 kg"
-    ],
-    "eye-color": "blue",
-    "hair-color": "black"
-  },
-  "work": {
-    "occupation": "Businessman",
-    "base": "Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower"
-  },
-  "image": {
-    "url": "httpss://www.superherodb.com/pictures2/portraits/10/100/639.jpg"
   }
 }
